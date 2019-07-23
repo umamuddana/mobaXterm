@@ -7,4 +7,5 @@ scripting
 maven
 ant
 nexus
+sonar
 
